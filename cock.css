@@ -6,6 +6,8 @@ div.mainbox {
   margin-left: auto;
   margin-right: auto;
   margin-top: 150px;
+  width: 50%;
+  background-color: #fff;
 }
 
 h1 {
